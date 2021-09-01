@@ -94,6 +94,8 @@ export default {
 </script>
 
 <style>
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -106,6 +108,7 @@ html {
   width: 100%;
   height: 100%;
   overflow-x: hidden;
+  font-family: "Roboto", sans-serif;
 }
 
 body::-webkit-scrollbar {
